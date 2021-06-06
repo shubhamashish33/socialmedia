@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+h1,h3,h5 {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.Twitter {
+  color: #01ff95;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #39E09B;
+  width: 600px;
+  padding: 10px;
+  margin: auto;
+}
+.Behance{
+    background-color: #39E09B;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+.LinkedIn{
+    background-color: #39E09B;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+.Instagram{
+    background-color: #39E09B;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
