@@ -13,28 +13,28 @@ img {
   color: #01ff95;
   margin-left: auto;
   margin-right: auto;
-  background-color: #39E09B;
-  width: 600px;
+  background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+  width: 20rem;
   padding: 10px;
   margin: auto;
 }
 .Behance{
-    background-color: #39E09B;
-    width: 600px;
+    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+    width: 20rem;
     padding: 10px;
     margin: auto;
     margin-top: 20px;
 }
 .LinkedIn{
-    background-color: #39E09B;
-    width: 600px;
+    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+    width: 20rem;
     padding: 10px;
     margin: auto;
     margin-top: 20px;
 }
 .Instagram{
-    background-color: #39E09B;
-    width: 600px;
+    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+    width: 20rem;
     padding: 10px;
     margin: auto;
     margin-top: 20px;
