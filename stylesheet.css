@@ -39,3 +39,17 @@ img {
     margin: auto;
     margin-top: 20px;
 }
+.Portfolio{
+  background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+.email{
+   background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+    width: 20rem;
+    padding: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
