@@ -3,6 +3,10 @@ h1,h3,h5 {
   font-family: "Rubik", sans-serif;
   text-align: center;
 }
+body{
+  background-color: black;
+  color: white;
+}
 img {
   display: block;
   margin-left: auto;
