@@ -1,8 +1,12 @@
 ## Social Media
+
 All social media link in one place \
 [Link🚀](https://shubhamashish33.github.io/socialmedia/)
+
 # Code
+
 HTML CODE
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -58,10 +62,14 @@ HTML CODE
   </body>
 </html>
 ```
+
 CSS CODE
+
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
-h1,h3,h5 {
+h1,
+h3,
+h5 {
   font-family: "Rubik", sans-serif;
   text-align: center;
 }
@@ -75,44 +83,52 @@ img {
   color: #01ff95;
   margin-left: auto;
   margin-right: auto;
-  background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
   width: 20rem;
   padding: 10px;
   margin: auto;
 }
-.Behance,.github{
-    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
-    width: 20rem;
-    padding: 10px;
-    margin: auto;
-    margin-top: 20px;
-}
-.LinkedIn{
-    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
-    width: 20rem;
-    padding: 10px;
-    margin: auto;
-    margin-top: 20px;
-}
-.Instagram{
-    background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
-    width: 20rem;
-    padding: 10px;
-    margin: auto;
-    margin-top: 20px;
-}
-.Portfolio{
-  background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
+.Behance,
+.github {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
   width: 20rem;
   padding: 10px;
   margin: auto;
   margin-top: 20px;
 }
-.email{
-   background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
-    width: 20rem;
-    padding: 10px;
-    margin: auto;
-    margin-top: 20px;
+.LinkedIn {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+.Instagram {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+.Portfolio {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+.email {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+.github {
+  background-image: linear-gradient(62deg, #fbab7e, #f7ce68);
+  width: 20rem;
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
 }
 ```
