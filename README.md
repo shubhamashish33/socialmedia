@@ -80,7 +80,7 @@ img {
   padding: 10px;
   margin: auto;
 }
-.Behance{
+.Behance,.github{
     background-image: linear-gradient(62deg, #FBAB7E, #F7CE68);
     width: 20rem;
     padding: 10px;
