@@ -4,7 +4,7 @@ All social media link in one place \
 [Link🚀](https://shubhamashish33.github.io/socialmedia/)
 
 # Screenshot
-![chrome_0yKs5KsIVX](https://user-images.githubusercontent.com/78084828/134628040-d7532efc-9f63-4c2f-b77b-1bdfb96b329d.png)
+![](2021-12-27-22-10-32.png)
 
 # Code
 
