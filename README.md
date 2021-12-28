@@ -3,8 +3,9 @@
 All social media link in one place \
 [Link🚀](https://shubhamashish33.github.io/socialmedia/)
 
-## Screenshot
-![](2021-12-27-22-10-32.png)
+## Demo
+![S7JpNr3bTf](https://user-images.githubusercontent.com/78084828/147527463-c2c5b422-a334-4054-aed9-2cfd186d3b4b.gif)
+
 
 ## Tools and Language
 - HTML
